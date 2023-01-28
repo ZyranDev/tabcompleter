@@ -1,0 +1,4 @@
+name: TabCompleter
+main: dev.zyran.tabcompleter.PluginLauncher
+version: 0.0.1
+author: Zyran
